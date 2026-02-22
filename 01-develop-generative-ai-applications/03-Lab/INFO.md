@@ -1,3 +1,5 @@
+> Ensure that `source .env` is loaded on the same terminal tab before running
+
 ### Running Tests
 
 To run the tests,

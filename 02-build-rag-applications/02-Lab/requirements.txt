@@ -1,0 +1,11 @@
+gradio==4.44.0
+langchain
+langchain-community
+langchain-classic
+langchain-huggingface
+langchain-text-splitters
+huggingface_hub
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
