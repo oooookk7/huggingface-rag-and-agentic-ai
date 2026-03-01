@@ -1,0 +1,17 @@
+image==1.5.33
+requests==2.32.0
+pillow==11.0.0
+transformers==4.46.3
+torch
+torchvision
+ipywidgets
+google-search-results==2.4.2
+scikit-learn==1.5.2
+gradio==5.22.0
+langchain-huggingface
+langchain-core
+huggingface_hub
+python-dotenv
+pandas
+numpy
+serpapi
