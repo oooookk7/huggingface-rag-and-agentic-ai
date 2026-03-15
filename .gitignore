@@ -208,3 +208,5 @@ __marimo__/
 
 .gradio
 .models
+08-*/leftover.py.*
+08-*/chroma_data
